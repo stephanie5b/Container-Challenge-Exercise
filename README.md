@@ -28,7 +28,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"sample":"data"}' http://l
 
 ## Author
 - Stephanie B.
-<<<<<<< HEAD
-=======
-
->>>>>>> 253d9bc8a596792b36a954ea525a35d0a0684c83
